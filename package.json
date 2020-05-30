@@ -1,0 +1,24 @@
+{
+  "name": "google_sheet_api_smurf_account",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/KaliLinuxF/Smurf-Account-Automation"
+  },
+  "keywords": [
+    "google",
+    "sheets",
+    "smurf",
+    "dota"
+  ],
+  "author": "vk.com/roflonton",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
